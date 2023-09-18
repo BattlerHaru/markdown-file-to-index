@@ -4,7 +4,7 @@ Get headers (H2 to H4) and convert at index links
 
 ## 📘 Instructions
 
-Copy or rename your markdown file(.md) to "original.md" and run the next command
+Copy or rename your markdown file(.md) to "original.md" and run the next nodejs command
 
 ```bash
 npm run start
